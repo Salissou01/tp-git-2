@@ -1,0 +1,6 @@
+.vscode/
+.DS_Store
+.idea/
+.env
+.env.example
+.pratique.txt
